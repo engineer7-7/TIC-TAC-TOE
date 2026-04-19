@@ -9,6 +9,7 @@ COLUMNS = 3
 
 
 grid = np.full((ROWS, COLUMNS), "", dtype=str)
+print("GitHub practice branch test")
 
 
 # function for sumbol selection
